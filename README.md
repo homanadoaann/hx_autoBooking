@@ -38,4 +38,3 @@
 
 ![6cf93ddde3fb9109dfb496b48cbdacf](https://github.com/user-attachments/assets/42655f7b-fea1-4882-b06b-b4a296e75078)
 
-## PS 华西内部自己也在做黄牛，成都本地有个企业公众号，明目张胆可以调用二院的人脸识别，他们收费2000起一个二院建档号；圣母就别再这BB了
