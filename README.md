@@ -9,9 +9,4 @@
 ## 欢迎大老板买断（只有1个名额）
 支持买断独立部署，协助部署
 
-![image](https://github.com/user-attachments/assets/e449843e-4ad5-4b99-bf20-6f78fc1434c7)
-
-
-
-# 按次抢号联系
-![image](https://github.com/user-attachments/assets/5dafcb41-c0ca-4812-a831-e9e60a22e815)
+![image](https://github.com/user-attachments/assets/8180d796-80b2-403b-8dc5-8e53568e22a4)
