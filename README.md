@@ -13,9 +13,3 @@
 
 ![image](https://github.com/user-attachments/assets/8180d796-80b2-403b-8dc5-8e53568e22a4)
 
-
-## 部分抢号结果（不定时更新）
-![image](https://github.com/user-attachments/assets/bc2ab804-d349-4b41-bcf8-fde533d912bd)
-![image](https://github.com/user-attachments/assets/b3c50c52-00b9-4633-98f8-77996924c623)
-![image](https://github.com/user-attachments/assets/2ca5ff1d-05f3-4cf1-823d-bb11e2e24766)
-![image](https://github.com/user-attachments/assets/aea4511a-a244-4dd8-971a-41ed7d5d8bce)
