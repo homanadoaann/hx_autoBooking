@@ -3,7 +3,7 @@
 
 支持包月/包年服务，为保证抢号质量合作名额有限；
 
-## 服务状态查询 https://www.scalperit.com:8888/
+## 服务状态查询 https://www.scalperit.com
 ![image](https://github.com/user-attachments/assets/ecefeaec-bcca-41b8-a7d2-17151b0d35b3)
 
 
